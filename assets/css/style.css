@@ -95,6 +95,7 @@ p {
 }
 
 .page-title {
+    font-size:30px;
     border-bottom: solid 2px;
     text-align: left;
     margin-left:30px;
@@ -168,6 +169,7 @@ p {
 }
 
 .tom {
+    font-size: 30px;
     float: left;
     width:250px;
     background-color: antiquewhite;
