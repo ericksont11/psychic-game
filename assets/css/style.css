@@ -13,7 +13,7 @@ body {
 #Count, #Guesses, #Word, #Letter, #Win {
     text-align: center;
     font-size: 40px;
-    color: gray;
+    color: slateblue;
 }
 
 #Word {
